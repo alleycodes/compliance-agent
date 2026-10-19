@@ -1,0 +1,5 @@
+pandas
+faiss-cpu
+scikit-learn
+langgraph
+anthropic

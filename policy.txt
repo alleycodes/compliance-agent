@@ -1,0 +1,11 @@
+POL-1 Approval Limits: Any single payment above 25,000 requires approval from a manager. A payment above this limit with no approver recorded must be escalated to the finance controller.
+
+POL-2 Duplicate Payments: The same vendor must not be paid the same amount more than once on the same day. A suspected duplicate payment must be held and checked against the original invoice.
+
+POL-3 Round-Amount Payments: A large round-number payment, such as an exact multiple of 10,000, is a common sign of an estimated or made-up invoice. It needs a supporting invoice and a second reviewer.
+
+POL-4 Very High Value Payments: Any very high value payment above 100,000 must be reviewed by the finance team before it is released.
+
+POL-5 Record Keeping: Every flagged payment and the decision taken on it must be recorded with a timestamp so an audit trail is available.
+
+POL-6 Travel and Meals: Travel and meal expenses must be submitted within 30 days with receipts attached.

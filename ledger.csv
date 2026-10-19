@@ -1,0 +1,13 @@
+txn_id,date,vendor,category,amount,approved_by
+T001,2026-09-01,IndiGo,Travel,6500,Rahul
+T002,2026-09-02,AWS,Software,12000,Meera
+T003,2026-09-03,Staples,Office,2400,Sanjay
+T004,2026-09-04,Zoom,Software,8000,Meera
+T005,2026-09-05,Taj Hotels,Travel,9500,Rahul
+T006,2026-09-08,AWS,Software,18250,Meera
+T007,2026-09-08,AWS,Software,18250,Meera
+T008,2026-09-09,Amazon Business,Office,3100,Sanjay
+T009,2026-09-10,Local Advisors,Consulting,50000,Sanjay
+T010,2026-09-11,Godrej Interio,Office,148000,
+T011,2026-09-12,Ola Corporate,Travel,2200,Rahul
+T012,2026-09-15,Atlassian,Software,7600,Meeraxs
